@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/foxmeller/go_final_project_v1/internal/config"
-	"github.com/foxmeller/go_final_project_v1/internal/db"
-	"github.com/foxmeller/go_final_project_v1/internal/scheduler"
+	"todo-api/internal/config"
+	"todo-api/internal/db"
+	"todo-api/internal/scheduler"
 )
 
 // CompleteTaskHandler обрабатывает POST-запросы к /api/task/done для выполнения задачи.

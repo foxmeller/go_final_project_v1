@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/foxmeller/go_final_project_v1/internal/config"
+	"todo-api/internal/config"
 )
 
 // NextDate возвращает следующую дату выполнения задачи на основе правил повторения
