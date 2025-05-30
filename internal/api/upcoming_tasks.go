@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"go_final_project_v1/internal/config"
+	"github.com/foxmeller/go_final_project_v1/internal/config"
 
 	"github.com/jmoiron/sqlx"
 )

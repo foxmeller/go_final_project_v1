@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"go_final_project_v1/internal/api"
-	"go_final_project_v1/internal/db"
+	"github.com/foxmeller/go_final_project_v1/internal/api"
+	"github.com/foxmeller/go_final_project_v1/internal/db"
 
 	"github.com/joho/godotenv" // Импортируем библиотеку для загрузки .env
 	

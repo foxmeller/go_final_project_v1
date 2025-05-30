@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"go_final_project_v1/internal/config"
-	"go_final_project_v1/internal/db"
-	"go_final_project_v1/internal/scheduler"
+	"github.com/foxmeller/go_final_project_v1/internal/config"
+	"github.com/foxmeller/go_final_project_v1/internal/db"
+	"github.com/foxmeller/go_final_project_v1/internal/scheduler"
 )
 
 // TaskHandler обрабатывает запросы к /api/task

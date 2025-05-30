@@ -3,7 +3,7 @@ package api
 import (
 	"net/http"
 
-	"go_final_project_v1/internal/db"
+	"github.com/foxmeller/go_final_project_v1/internal/db"
 )
 
 // DeleteTaskHandler обрабатывает DELETE-запросы к /api/task для удаления задачи.

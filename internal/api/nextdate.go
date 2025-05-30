@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"go_final_project_v1/internal/config"
-	"go_final_project_v1/internal/scheduler"
+	"github.com/foxmeller/go_final_project_v1/internal/config"
+	"github.com/foxmeller/go_final_project_v1/internal/scheduler"
 )
 
 // NextDateHandler обрабатывает запросы к /api/nextdate
